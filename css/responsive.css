@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+    #header {
+        height: 100px;
+    }
+
+    #main {
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #main-1 {
+        height: 100px;
+        width: 100%;
+    }
+
+    #main-2 {
+        height: 100px;
+        width: 100%;
+    }
+
+    #footer {
+        height: 100px;
+    }
+}
